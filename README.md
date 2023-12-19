@@ -5,7 +5,3 @@
 <p align="left">
 <a href="https://discord.gg/junius2173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="junius#5543" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junius&show_icons=true&locale=en&layout=compact" alt="junius" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junius&show_icons=true&locale=en" alt="junius" /></p>
