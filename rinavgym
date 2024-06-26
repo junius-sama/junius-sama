@@ -1,5 +1,5 @@
 {
-  "allowed-macs": [
+  "allowed-hwids": [
     "84a3bda6224f622547a6920465c0c0f93ec29519516a375284dd3ee1296a710f"
   ]
 }
